@@ -16,3 +16,15 @@ Problem Statement:
 - Recommendations for a successful IPO<br.
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity <br.
+
+
+Tasks:
+7 data sets - each data set contains different columns and values
+A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+
+Steps:
+1. Data Understanding
+2. Data Cleaning
+3. Data Modeling
+4. Data Visualization
+5. Data StoryTelling
