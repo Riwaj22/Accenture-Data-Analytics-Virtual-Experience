@@ -12,8 +12,8 @@ feeds.
 
 
 Problem Statement: 
-- An audit of their big data practice <br.
-- Recommendations for a successful IPO<br.
+- An audit of their big data practice 
+- Recommendations for a successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity <br.
 
