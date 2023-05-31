@@ -23,8 +23,8 @@ Tasks:
 A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
 
 Steps:
-1. Data Understanding
-2. Data Cleaning
-3. Data Modeling
-4. Data Visualization
-5. Data StoryTelling
+1. Data Understanding: Understanding the use case
+2. Data Cleaning: Cleaning, Removing unwanted columns from datasets.
+3. Data Modeling: Providing Data for ML algorithm testing
+4. Data Visualization: Visualixation of findings from the data
+5. Data StoryTelling: Presenting insights obtained fron the data in a clear way
